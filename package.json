@@ -1,0 +1,26 @@
+{
+  "name": "talkpeaknodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://NahirasNawa@bitbucket.org/NahirasNawa/talkpeaknodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/NahirasNawa/talkpeaknodejs#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "crypto-random-string": "^3.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.17",
+    "socket.io": "^2.4.1"
+  }
+}
